@@ -1,0 +1,12 @@
+{
+    "name": "react-dnd-html5-backend",
+    "description": "HTML5 backend for React DnD",
+    "repos": "https://github.com/gaearon/react-dnd-html5-backend.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "lodash": "^3.10.1"
+    },
+    "version": "2.0.0"
+}
