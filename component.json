@@ -6,7 +6,7 @@
     "tag": "master",
     "reposType": "npm",
     "dependencies": {
-        "lodash": "^3.10.1"
+        "lodash": "^4.2.0"
     },
-    "version": "2.0.0"
+    "version": "2.1.0"
 }
